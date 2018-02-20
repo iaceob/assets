@@ -1,0 +1,11 @@
+<svg width="200" height="96" xmlns="http://www.w3.org/2000/svg">
+    <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+    <g>
+        <title>background</title>
+        <rect fill="#fff" fill-opacity="0" id="canvas_background" height="98" width="202" y="-1" x="-1"/>
+    </g>
+    <g>
+        <title>Layer 1</title>
+        <text transform="matrix(1.44722, 0, 0, 3.13839, -135.32, -513.394)" xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="24" id="svg_1" y="184.883255" x="96.283932" stroke-width="0" stroke="#000" fill="#000000">NanoHttpd</text>
+    </g>
+</svg>
